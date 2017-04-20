@@ -1,0 +1,2 @@
+allegro www.allegro.pl
+amazon www.amazon.com
